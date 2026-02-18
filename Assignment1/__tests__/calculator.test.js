@@ -1,4 +1,4 @@
-import { add, divide } from '../src/calculator.js';
+import { add, divide } from '../src/calculator';
 
 
 describe('add', () => {
